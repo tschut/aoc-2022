@@ -1,4 +1,4 @@
-package nl.tiemenschut.aoc.y2015
+package nl.tiemenschut.aoc.y2022
 
 import nl.tiemenschut.aoc.lib.dsl.aoc
 import nl.tiemenschut.aoc.lib.dsl.day
